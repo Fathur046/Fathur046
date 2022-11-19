@@ -9,4 +9,9 @@ Halo nama saya Fathur, saya adalah salah satu mahluk bumi yang bernafas mengguna
 
 - 🔭 I’m currently working with many [organizations](https://coconut.or.id/contact)
 - 🌱 I’m currently learning new things
+<<<<<<< HEAD
 - 📫 How to reach me: [Instagram](https://www.instagram.com/faaathurrrr_/)
+=======
+- 👯 I’m looking to collaborate on Opensourced Projects
+- 📫 How to reach me: [Instagram](https://www.instagram.com/faaathurrrr_/)
+>>>>>>> b6d882752e4b6f1b02961d5949f1562190b6689f
